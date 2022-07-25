@@ -3,4 +3,4 @@ n2 = float(input('Nota 2:'))
 
 media=(n1+n2)/2
 
-print('Média: {}'.format(media))
+print('Média: {:.1f}'.format(media))
