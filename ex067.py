@@ -3,10 +3,8 @@ while True:
     if n < 0:
         break
     print('-'*20)
-    cont = 1
-    while cont <= 10:
-        print(f'{n} x {cont} = {n * cont}')
-        cont += 1
+    for i in range(1, 11):
+        print(f'{n} x {i} = {n * i}')
     print('-'*20)
 
 print('FIM')
