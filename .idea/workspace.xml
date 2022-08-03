@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9d653e7-4d6d-4c71-a102-9072215eb894" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex072.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex074.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex080.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex082.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex083.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex078.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex078.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/Dev/Python/PythonExercicios",
+    "last_opened_file_path": "C:/Users/User/Desktop/Dev/Python/api-rest-flask",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -48,8 +47,8 @@
       <recent name="C:\Users\User\Desktop\Dev\Python\PythonExercicios\ex021" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex077">
-    <configuration name="ex073" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex079">
+    <configuration name="ex078" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex073.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex078.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex074" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex079" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex074.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex079.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex075" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex081" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex075.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex081.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex076" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex082" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex076.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex082.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex077" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex083" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex077.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex083.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex077" />
-        <item itemvalue="Python.ex076" />
-        <item itemvalue="Python.ex075" />
-        <item itemvalue="Python.ex074" />
-        <item itemvalue="Python.ex073" />
+        <item itemvalue="Python.ex079" />
+        <item itemvalue="Python.ex078" />
+        <item itemvalue="Python.ex083" />
+        <item itemvalue="Python.ex082" />
+        <item itemvalue="Python.ex081" />
       </list>
     </recent_temporary>
   </component>
