@@ -2,7 +2,7 @@ lista = []
 digito = 'S'
 cont = 0
 tem5 = False
-while digito != 'N':
+while True:
     n = int(input('Numero: '))
     lista.append(n)
     cont += 1
@@ -13,6 +13,9 @@ while digito != 'N':
     if digito not in 'SN':
         print('Invalido, digite novamente...')
         digito = str(input('Deseja continuar? [S/N]: ')).upper().strip()
+
+    if digito == 'N':
+        break
 
 print(f'\nLista de forma descrescente: {sorted(lista, reverse=True)}')
 print(f'Foram digitados {cont} valores')

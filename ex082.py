@@ -3,7 +3,7 @@ listaPar = []
 listaImpar = []
 digito = 'S'
 
-while digito != 'N':
+while True:
     n = int(input('Numero: '))
     lista.append(n)
 
@@ -12,6 +12,9 @@ while digito != 'N':
     if digito not in 'SN':
         print('Inválido, tente novamente...')
         digito = (str(input('Quer continuar? [S/N]: '))).strip().upper()
+
+    if digito == 'N':
+        break
 
 for i in range(0, len(lista)):
     if lista[i] % 2 == 0:
